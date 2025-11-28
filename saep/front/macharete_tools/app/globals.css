@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --rose-50: #fff8f9;
+  --rose-100: #f4d7d9;
+  --rose-300: #d48b8f;
+  --rose-500: #96424a;
+  --rose-700: #6b1e24;
+
+  --green-50: #f5fdf8;
+  --green-100: #e3faef;
+  --green-300: #8fe7c4;
+  --green-500: #3fb98c;
+  --green-700: #167754;
+
+  --gray-50: #ffffff;
+  --gray-100: #f6f6f6;
+  --gray-300: #dcdcdc;
+  --gray-600: #4a4a4a;
+  --gray-900: #1a1a1a;
+}
